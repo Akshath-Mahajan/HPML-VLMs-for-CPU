@@ -1,0 +1,36 @@
+Benchmarking before training...
+============= NEW RUN =============
+Average Cosine Similarity Before Training: -0.0037
+Benchmarking before training...
+LLaMA Inference Time (CPU): 1725.29 ms
+DistilGPT2 Inference Time (CPU): 26.07 ms
+LLaMA Inference Time (CUDA): 112.66 ms
+DistilGPT2 Inference Time (CUDA): 4.78 ms
+============= NEW RUN =============
+Benchmarking before training...
+LLaMA Inference Time (CPU): 1732.63 ms
+DistilGPT2 Inference Time (CPU): 25.89 ms
+LLaMA Inference Time (CUDA): 112.95 ms
+DistilGPT2 Inference Time (CUDA): 4.86 ms
+Epoch 1/10
+============= NEW RUN =============
+============= NEW RUN =============
+============= NEW RUN =============
+============= NEW RUN =============
+============= NEW RUN =============
+Average Cosine Similarity Before Training: 0.0021
+Benchmarking before training...
+LLaMA Inference Time (CPU): 1764.24 ms
+DistilGPT2 Inference Time (CPU): 26.28 ms
+LLaMA Inference Time (CUDA): 113.64 ms
+DistilGPT2 Inference Time (CUDA): 4.67 ms
+Epoch 1/10
+============= NEW RUN =============
+Benchmarking before training...
+Average Cosine Similarity Before Training: 0.0001
+Benchmarking before training...
+LLaMA Inference Time (CPU): 1780.59 ms
+DistilGPT2 Inference Time (CPU): 488.55 ms
+LLaMA Inference Time (CUDA): 113.76 ms
+DistilGPT2 Inference Time (CUDA): 31.72 ms
+Epoch 1/10
