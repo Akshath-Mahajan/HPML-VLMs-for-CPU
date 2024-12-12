@@ -54,22 +54,22 @@ Simply run jupyter notebooks
 
 ## Results and Observations
 
-### Compression and Optimization
-| Metric                | **LLAVA**      | **TinyLLaVA**         |
-|-----------------------|----------------|-----------------------|
-| Model Size            | 100%           | ~X% smaller          |
-| Inference Speed       | Baseline       | ~Y% faster on CPU    |
+## Main Results
 
-### Knowledge Distillation
-| Model                | Cosine Similarity |
-|----------------------|-------------------|
-| MobileNetV3 (distilled from CLIP) | 0.91              |
-| TinyLLaVA           | 0.92              |
+- **Model Compression & Efficiency:**
+  - TinyLLaVA is **98.8% smaller** than LLAVA, enabling deployment on resource-constrained devices.
+  - Achieves a **390x speedup** compared to LLAVA on edge devices.
 
-### Speedup on Edge Devices
-- **TinyLLaVA** achieved a 390x speedup compared to LLAVA when deployed on consumer-grade CPUs.
+- **Inference Performance:**
+  - Achieves real-time performance with **20-30 FPS** on a **2-core AMD EPYC 7B12 CPU**.
 
----
+- **Downstream Task Success:**
+  - Fine-tuned on the COCO Image Captioning dataset for **3 epochs**.
+  - Achieved a perplexity score of **1.13**, with predictions closely matching reference captions.
+
+- **Generalization:**
+  - Demonstrates practical deployment on low-power devices without significant loss in performance.
+  - Instruction fine-tuning provides a robust initialization for downstream tasks.
 
 ## Observations and Conclusion
 - **Performance**: TinyLLaVA achieves high fidelity to LLAVA with minimal loss in accuracy.
