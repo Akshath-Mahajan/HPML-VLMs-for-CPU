@@ -1,0 +1,29 @@
+Evaluation Results:
+Perplexity: 1.1133
+
+Sample Outputs:
+Reference: <image>
+A group of giraffe eating food from a tree.
+Prediction: <image>
+A group of giraffe eating food from a tree.
+
+Reference: <image>
+A bunk bed sits next to an open window. 
+Prediction: <image>
+A bunk bed sits next to an open window. 
+
+Reference: <image>
+A group of cars, riding down the street.
+Prediction: <image>
+A group of cars, riding down the street.
+
+Reference: <image>
+A zebra is standing away from two adult giraffe.
+Prediction: <image>
+A zebra is standing away from two adult giraffe.
+
+Reference: <image>
+A bed with a wooden headboard next to a window.
+Prediction: <image>
+A bed with a wooden headboard next to a window.
+

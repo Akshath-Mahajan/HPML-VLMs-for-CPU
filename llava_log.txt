@@ -1,0 +1,86 @@
+Epoch 3 completed. Average Loss: 2074.6008 Average Cos: 0.4833
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_3.pth
+Updated learning rate: 0.000500
+Epoch 4 completed. Average Loss: 1674.2177 Average Cos: 0.4940
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_4.pth
+Updated learning rate: 0.000250
+Epoch 5 completed. Average Loss: 1383.7037 Average Cos: 0.5043
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_5.pth
+Updated learning rate: 0.000250
+Epoch 6 completed. Average Loss: 1262.0397 Average Cos: 0.5080
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_6.pth
+Updated learning rate: 0.000125
+Epoch 7 completed. Average Loss: 1251.7896 Average Cos: 0.4948
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_7.pth
+Updated learning rate: 0.000500
+Epoch 8 completed. Average Loss: 1136.5179 Average Cos: 0.4924
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_8.pth
+Updated learning rate: 0.000250
+Epoch 9 completed. Average Loss: 993.9181 Average Cos: 0.4954
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_9.pth
+Updated learning rate: 0.000250
+Epoch 10 completed. Average Loss: 933.4345 Average Cos: 0.4963
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_10.pth
+Updated learning rate: 0.000125
+Epoch 11 completed. Average Loss: 873.6158 Average Cos: 0.4976
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_11.pth
+Updated learning rate: 0.000125
+Epoch 12 completed. Average Loss: 845.7909 Average Cos: 0.4980
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_12.pth
+Updated learning rate: 0.000063
+Epoch 13 completed. Average Loss: 815.5310 Average Cos: 0.4987
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_13.pth
+Updated learning rate: 0.000063
+Epoch 14 completed. Average Loss: 845.1962 Average Cos: 0.4931
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_14.pth
+Updated learning rate: 0.000250
+Epoch 15 completed. Average Loss: 817.5202 Average Cos: 0.4907
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_15.pth
+Updated learning rate: 0.000125
+Epoch 16 completed. Average Loss: 101.3290 Average Cos: 0.5073
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_16.pth
+Updated learning rate: 0.000250
+Epoch 17 completed. Average Loss: 88.9991 Average Cos: 0.4890
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_17.pth
+Updated learning rate: 0.000125
+MSE EPOCH 1 DONE - Avg MSE Loss=1.6958, Avg Cosine Sim=0.8795 - METRIC FROM TQDM DUE TO ERROR
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_7.pth
+Epoch 8 completed. Average Loss: 1.4292 Average Cos: 0.8988
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_8.pth
+Updated learning rate: 0.000250
+Epoch 9 completed. Average Loss: 1.3369 Average Cos: 0.9058
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_9.pth
+Updated learning rate: 0.000125
+Epoch 10 completed. Average Loss: 1.2692 Average Cos: 0.9109
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_10.pth
+Updated learning rate: 0.000125
+Epoch 11 completed. Average Loss: 1.2343 Average Cos: 0.9136
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_11.pth
+Updated learning rate: 0.000063
+Epoch 12 completed. Average Loss: 1.2017 Average Cos: 0.9160
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_12.pth
+Updated learning rate: 0.000063
+Epoch 13 completed. Average Loss: 1.1859 Average Cos: 0.9172
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_13.pth
+Updated learning rate: 0.000031
+Epoch 14 completed. Average Loss: 1.1700 Average Cos: 0.9184
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_14.pth
+Updated learning rate: 0.000031
+Epoch 15 completed. Average Loss: 1.1627 Average Cos: 0.9190
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_15.pth
+Updated learning rate: 0.000016
+Epoch 16 completed. Average Loss: 1.1541 Average Cos: 0.9196
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_16.pth
+Updated learning rate: 0.000016
+Epoch 17 completed. Average Loss: 1.1506 Average Cos: 0.9199
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_17.pth
+Updated learning rate: 0.000008
+Epoch 18 completed. Average Loss: 1.1462 Average Cos: 0.9202
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_18.pth
+Updated learning rate: 0.000008
+Epoch 19 completed. Average Loss: 1.1442 Average Cos: 0.9204
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_19.pth
+Updated learning rate: 0.000004
+Epoch 20 completed. Average Loss: 1.1423 Average Cos: 0.9205
+Model checkpoint saved to ./LLAVA_KD_RESULTS/tiny_llava_epoch_20.pth
+Updated learning rate: 0.000004
